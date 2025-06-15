@@ -1,0 +1,17 @@
+Bootcamp de Aprendizado de Máquina Atividade 1
+
+Explique, com suas palavras, o que é Machine Learning? Machine Learning é uma área da IA ​​que aprendem e melhorem de forma autônoma, a partir de dados e padrões.
+
+Explique o conceito de conjunto de treinamento, conjunto de validação e conjunto de teste em aprendizado de máquina Conjunto de treinamento é um subconjunto de dados
+usado para treinar um sistema de aprendizado de máquina; Conjunto de validação é um subconjunto de dados, assim como o conjunto de treinamento, mas diferente desse, 
+é usado para avaliar o desempenho do modelo durante o treinamento; Conjunto de teste é um subconjunto de dados que o modelo não viu durante o treinamento e que é usado 
+para avaliar a capacidade do modelo de generalizar.
+
+Explique como você lidaria com dados ausentes em um conjunto de dados de treinamento. Iria usar modelos ou algoritmos que estimassem com base nos dados disponíveis os 
+valores ausentes.
+
+O que é uma matriz de confusão e como ela é usada para avaliar o desempenho de um modelo preditivo? É uma tabela que compara os resultados previstos por um modelo com 
+os resultados reais, mostrando o número de acertos e erros para cada classe.
+
+Em quais áreas (como construção civil, agricultura, saúde, produção, entre outras) você acha mais interessante aplicar algoritmos de aprendizado de máquina? Em áreas 
+relacionadas à agricultura, usando para variações climáticas concisas e melhoramento de colheitas.
